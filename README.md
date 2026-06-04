@@ -1,0 +1,1 @@
+Una Base de datos creada para un establecimiento comercial administrador de recargas de extintores, enfocado en la gestión de seguridad industrial para empresas contratistas,construcción, manufactura.
